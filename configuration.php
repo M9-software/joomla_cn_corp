@@ -55,7 +55,7 @@ class JConfig {
 	public $sef_rewrite = '0';
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
-	public $feed_limit = '10';
+	public $feed_limit = '20';
 	public $feed_email = 'none';
 	public $log_path = '/var/www/zlfl/administrator/logs';
 	public $tmp_path = '/var/www/zlfl/tmp';
